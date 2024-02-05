@@ -45,7 +45,7 @@ alias:: apparatus
 		- assistant: IDR 200k per day + IDR 200k per night in travels
 	- salaries are payed
 		- based on amount of hours worked
-		- in last day at 17.00
+		- in last day of the month at 17.00
 - hiring
 	- currently we are hiring ONLY skilled people with good knowledge of english
 	- do not waste your and our time if you cant confidently speak and understand english
