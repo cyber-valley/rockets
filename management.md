@@ -7,7 +7,7 @@ alias:: apparatus
 	- vice: @darsana
 	- at the end of each workday
 		- the manager sends a report detailing the team's daily activities
-		- and the plant for next day
+		- and the plans for next day
 	- if manager is absent his vice take on his duties
 - growers
 	- head: @anyta
