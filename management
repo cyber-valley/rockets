@@ -1,0 +1,53 @@
+alias:: apparatus
+
+- executives are sum of @master and @joy
+- builders
+	- head: @master
+	- manager: @sudiartaa
+	- vice: @darsana
+	- at the end of each workday
+		- the manager sends a report detailing the team's daily activities
+		- and the plant for next day
+	- if manager is absent his vice take on his duties
+- growers
+	- head: @anyta
+	- managers: @ketut, @ayu
+	- at the end of each workday
+		- the manager sends a report detailing the team's daily activities
+		- and the plant for next day
+	- if one manager is absent remaining manager take on her duties
+- edu
+	- head: @joy
+	- mentors: @ketut, @ayu, @meli
+	- @mimi schedule:
+		- ketut: 08.00 - 11.00
+		- ayu: 13.00 - 17.00
+		- meli: 17.00 - 18.00
+	- prohibited to leave @mimi with other people (!)
+	- in the end of every day all mentors send report with photos on @mimi activities to edu channel
+- assistance: @meli
+	- help with homework: 1 hour a day. must be done at 16.00
+	- help @mimi at night from 17.00 to 18.00
+	- carry out our various tasks from @joy, @anyta, @master: for example, go buy something
+	- in the remaining time, work in the garden near the house
+	- accompanies in travel:
+- common managers responsibility
+	- every month create working calendar for every worker
+	- document amount of hours worked by every worker
+	- execute tasks from heads by assigning groups for them and controlling results
+	- participate in regular meetings which happens every friday at 16.00
+	- in the remaining time work with other workers in the field
+- salaries
+	- amount
+		- managers: IDR 370k per day
+		- vice: IDR 200k per day
+		- workers: IDR 170k per day
+		- assistant: IDR 200k per day + IDR 200k per night in travels
+	- salaries are payed
+		- based on amount of hours worked
+		- in last day at 17.00
+- hiring
+	- currently we are hiring ONLY skilled people with good knowledge of english
+	- do not waste your and our time if you cant confidently speak and understand english
+	- if you are interested, please write to @mastercyb in telegram
+-
