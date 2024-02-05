@@ -14,7 +14,7 @@ alias:: apparatus
 	- managers: @ketut, @ayu
 	- at the end of each workday
 		- the manager sends a report detailing the team's daily activities
-		- and the plant for next day
+		- and the plans for next day
 	- if one manager is absent remaining manager take on her duties
 - edu
 	- head: @joy
