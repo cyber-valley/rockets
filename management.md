@@ -18,14 +18,14 @@ alias:: apparatus
 	- if one manager is absent remaining manager take on her duties
 - edu
 	- head: @joy
-	- mentors: @ketut, @ayu, @meli
+	- mentors: @ketut, @ayu
 	- @mimi schedule:
-		- ketut: 08.00 - 11.00
+		- ketut: 08.00 - 12.00
 		- ayu: 13.00 - 17.00
 		- meli: 17.00 - 18.00
 	- prohibited to leave @mimi with other people (!)
 	- in the end of every day all mentors send report with photos on @mimi activities to edu channel
-- assistance: @meli
+- assistance: vacancy
 	- help with homework: 1 hour a day. must be done at 16.00
 	- help @mimi at night from 17.00 to 18.00
 	- carry out our various tasks from @joy, @anyta, @master: for example, go buy something
@@ -50,4 +50,3 @@ alias:: apparatus
 	- currently we are hiring ONLY skilled people with good knowledge of english
 	- do not waste your and our time if you cant confidently speak and understand english
 	- if you are interested, please write to @mastercyb in telegram
--
