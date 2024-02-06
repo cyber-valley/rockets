@@ -22,7 +22,6 @@ alias:: apparatus
 	- @mimi schedule:
 		- ketut: 08.00 - 12.00
 		- ayu: 13.00 - 17.00
-		- meli: 17.00 - 18.00
 	- prohibited to leave @mimi with other people (!)
 	- in the end of every day all mentors send report with photos on @mimi activities to edu channel
 - assistance: vacancy
