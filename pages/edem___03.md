@@ -1,0 +1,13 @@
+- connected to [[edem/sectors]]
+	- [[edem/02]]
+	- [[edem/04]]
+- [[olive]] [[guild]]
+  collapsed:: true
+	- [[comfrey]]
+- [[kumquat]] [[guild]]
+- [[kumquat]] [[guild]]
+- TODO [[pomegranate]] black [[guild]]
+- [[persimmon]] [[guild]]
+- [[persimmon]] [[guild]]
+- [[persimmon]] [[guild]]
+- [[cytherea]] guild

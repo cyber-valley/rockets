@@ -1,0 +1,8 @@
+- connected to [[edem/sectors]]
+	- [[edem/04]]
+	- [[edem/06]]
+- [[moringa]] [[guild]]
+- [[mangustin]] [[guild]]
+- [[mangustin]] [[guild]]
+- [[peach]] [[guild]]
+- [[mango]] [[guild]]

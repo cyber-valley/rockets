@@ -1,0 +1,7 @@
+- connected to [[edem/sectors]]
+	- [[edem/05]]
+	- [[edem/07]]
+- [[kumquat]] [[guild]]
+- [[inga]] guild
+- [[avocado]] aligator [[guild]]
+- [[fig]] jordan [[guild]]

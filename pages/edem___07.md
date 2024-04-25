@@ -1,0 +1,5 @@
+- connected to [[edem/sectors]]
+	- [[edem/06]]
+- [[eucalyptus]] rainbow [[guild]]
+- [[lemon]] [[guild]]
+- [[curry]] [[guild]]

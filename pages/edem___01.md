@@ -1,0 +1,35 @@
+- connected to [[edem/sectors]]
+	- [[edem/00]]
+	- [[edem/02]]
+- [[mango]] [[guild]]
+  collapsed:: true
+	- TODO add [[nitrogener]]: [[peanut]], [[lupin]], [[alfalfa]]
+	- [[benying]]
+	- [[elder]]
+	- [[comfrey]]
+	- [[melissa]]
+	- [[taro]]
+	- [[sowthistle]]
+	- [[ageratina]]
+	- [[melastoma]]
+	- [[rhea]]
+	- ![image.png](../assets/image_1713768725210_0.png)
+- [[inga]] [[guild]]
+- [[olive]] [[guild]]
+	- [[dill]]
+- [[orange]] [[guild]]
+	- [[perennial]]: [[tarragon]], [[melissa]], [[lemongrass]], [[begonia]]
+	- [[annual]]: [[chia]]
+	- TODO: protect from pests: [[yarrow]], [[dill]], [[coriander]], [[cosmos]], [[fennel]], [[dandelions]]
+- [[rambutan]] [[guild]]
+	- coriander
+	- celery
+	- [[rosemary]]
+- [[jambu]] [[guild]]
+	- rosemary
+	- thyme
+	- mint menthol
+- [[ramontchi]] [[guild]]
+  collapsed:: true
+	- lemon basil
+	- tuberose
